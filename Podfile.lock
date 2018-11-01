@@ -1,0 +1,24 @@
+PODS:
+  - BetterSegmentedControl (1.0.1)
+  - ESTabBarController-swift (2.6.3)
+  - pop (1.0.12)
+
+DEPENDENCIES:
+  - BetterSegmentedControl
+  - ESTabBarController-swift
+  - pop
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - BetterSegmentedControl
+    - ESTabBarController-swift
+    - pop
+
+SPEC CHECKSUMS:
+  BetterSegmentedControl: 8cac1f243b5cc747f44c9da655c975d5322243fa
+  ESTabBarController-swift: edb8d8bc2cd043a8ddb43ab501fefdf9865ac519
+  pop: d582054913807fd11fd50bfe6a539d91c7e1a55a
+
+PODFILE CHECKSUM: 4600ca53e04e5918079f9106603f11a76aef84d8
+
+COCOAPODS: 1.5.3
